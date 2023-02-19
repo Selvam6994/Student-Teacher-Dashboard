@@ -26,7 +26,7 @@ function Sidebar() {
             <li className="nav-item">
                 <Link className="nav-link" to="/portal/Users">
                     <i className="fas fa-fw fa-chart-area"></i>
-                    <span>Users</span></Link>
+                    <span>Teachers</span></Link>
             </li>
             <hr className="sidebar-divider d-none d-md-block"/>
             <li className="nav-item">

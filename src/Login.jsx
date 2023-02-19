@@ -45,6 +45,7 @@ function Login() {
                                         <button href="index.html" onClick={()=> navigate("/portal/dashboard")}class="btn btn-primary btn-user btn-block">
                                             Login
                                         </button>
+                                        <span>Just click login!</span>
                                         <hr/>
                                     </form>
                                     <hr/>

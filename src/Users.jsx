@@ -38,7 +38,7 @@ function Users() {
     return (<>
         <div className="container-fluid">
             <Link to="/portal/createuser" className="d-none d-sm-inline-block btn btn-sm btn-primary shadow-sm"><i
-                className="fas fa-download fa-sm text-white-50"></i> Create User</Link>
+                className="fas fa-download fa-sm text-white-50"></i> Create Details</Link>
             <br />
             {
                 isLoading ? <span>Loading...</span> : <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
